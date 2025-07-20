@@ -38,13 +38,13 @@ Este é um sistema simples desenvolvido em **Python** com **KivyMD**, voltado pa
 
 ## 🏗️ Estrutura do Projeto
 
-📁 projeto/
-├── main.py # Arquivo principal com a lógica do app
-├── interface.kv # Layout da interface gráfica
-├── dados.db # Banco de dados SQLite
-├── formulario_aph.pdf # PDF gerado com os dados
-├── json_tecnico.json # Dados exportados em formato técnico
-├── json_fhir.json # Dados exportados no padrão FHIR
+# 📁 projeto/
+- ├── main.py # Arquivo principal com a lógica do app
+- ├── interface.kv # Layout da interface gráfica
+- ├── dados.db # Banco de dados SQLite
+- ├── formulario_aph.pdf # PDF gerado com os dados
+- ├── json_tecnico.json # Dados exportados em formato técnico
+- ├── json_fhir.json # Dados exportados no padrão FHIR
 
 
 ---
