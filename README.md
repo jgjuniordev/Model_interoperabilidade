@@ -51,36 +51,36 @@ Este é um sistema simples desenvolvido em **Python** com **KivyMD**, voltado pa
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/formulario-aph.git
-cd formulario-aph
+#1. Clone o repositório:
+- ```bash
+- git clone https://github.com/seu-usuario/formulario-aph.git
+- cd formulario-aph
 
-Observações adicionais.
-Antes de rodar, precisa ter as dependências instaladas.
+## Observações adicionais.
+- Antes de rodar, precisa ter as dependências instaladas.
 
-pip install kivymd fpdf
+- pip install kivymd fpdf
 
-📥 Pré-requisitos
-Python 3.7 ou superior
+## 📥 Pré-requisitos
+- Python 3.7 ou superior
 
-Pip atualizado
+- Pip atualizado
 
-Sistema compatível com GUI (Windows, Linux ou Android via Buildozer)
+- Sistema compatível com GUI (Windows, Linux ou Android via Buildozer)
 
-🛠️ Futuras Melhorias (opcional)
-Integração com outros recursos FHIR (Observation, Encounter)
+## 🛠️ Futuras Melhorias (opcional)
+# Integração com outros recursos FHIR (Observation, Encounter)
 
-Geração de QR Code com os dados
+- Geração de QR Code com os dados
 
-Versão Android com Buildozer
+- Versão Android com Buildozer
 
-Integração com serviços de saúde (ex: RNDS)
+- Integração com serviços de saúde (ex: RNDS)
 
-👨‍💻 Autor
-José Gonçalves Barcellos Junior
+## 👨‍💻 Autor
+# José Gonçalves Barcellos Junior
 
-Mestrando(a) em Informática em Saúde | UFSC
+# Mestrando(a) em Informática em Saúde | UFSC
 
-Leia a Licneça de uso. 
+- Leia a Licneça de uso. 
 
