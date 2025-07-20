@@ -51,9 +51,9 @@ Este é um sistema simples desenvolvido em **Python** com **KivyMD**, voltado pa
 
 ## 🚀 Como Executar
 
-# 1. Clone o repositório:
+## 1. Clone o repositório:
 - ```bash
-# git clone [https://github.com/seu-usuario/formulario-aph.git](https://github.com/jgjuniordev)
+## git clone: https://github.com/jgjuniordev
 - cd formulario-aph
 
 ## Observações adicionais.
