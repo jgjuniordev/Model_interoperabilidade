@@ -1,0 +1,37 @@
+MDScreen:
+
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: "24dp"
+        spacing: "18dp"
+        size_hint: 0.8, None
+        height: self.minimum_height
+        pos_hint: {"center_x": 0.5, "center_y": 0.5}
+
+        MDLabel:
+            text: "Formulário APH"
+            halign: "center"
+            theme_text_color: "Primary"
+            font_style: "H5"
+
+        MDTextField:
+            id: nome_field
+            hint_text: "Nome completo"
+            mode: "rectangle"
+
+        MDTextField:
+            id: cpf_field
+            hint_text: "CPF"
+            input_filter: "int"
+            mode: "rectangle"
+
+        MDRaisedButton:
+            text: "Enviar dados"
+            on_release: app.salvar_dados()
+            pos_hint: {"center_x": 0.5}
+
+        MDRaisedButton:
+            text: "Gerar PDF"
+            on_release: app.gerar_pdf()
+            pos_hint: {"center_x": 0.5}
+
